@@ -1,0 +1,157 @@
+2025-12-05T23:20:50.553643600 - New problem added: Sum of Two Numbers
+2025-12-05T23:20:50.566189300 - Testcase added to problem ID: 1
+2025-12-05T23:20:50.574790500 - Testcase added to problem ID: 1
+2025-12-05T23:20:50.585345400 - Testcase added to problem ID: 1
+2025-12-05T23:20:50.598184700 - New problem added: Reverse a String
+2025-12-05T23:20:50.606202900 - Testcase added to problem ID: 2
+2025-12-05T23:20:50.614263300 - Testcase added to problem ID: 2
+2025-12-05T23:20:50.623263200 - Testcase added to problem ID: 2
+2025-12-05T23:20:50.631423100 - New problem added: Check Prime Number
+2025-12-05T23:20:50.641814800 - Testcase added to problem ID: 3
+2025-12-05T23:20:50.652664400 - Testcase added to problem ID: 3
+2025-12-05T23:20:50.660087100 - Testcase added to problem ID: 3
+2025-12-05T23:20:50.669452500 - New problem added: Factorial of a Number
+2025-12-05T23:20:50.677147 - Testcase added to problem ID: 4
+2025-12-05T23:20:50.686556500 - Testcase added to problem ID: 4
+2025-12-05T23:20:50.696617300 - Testcase added to problem ID: 4
+2025-12-05T23:20:50.705217900 - New problem added: Nth Fibonacci Number
+2025-12-05T23:20:50.713263 - Testcase added to problem ID: 5
+2025-12-05T23:20:50.721271400 - Testcase added to problem ID: 5
+2025-12-05T23:20:50.728373800 - Testcase added to problem ID: 5
+2025-12-05T23:21:16.497002100 - New user registered: Nandini
+2025-12-05T23:21:24.260274500 - User logged in: Nandini
+2025-12-05T23:50:01.999928600 - New user registered: Nandini
+2025-12-05T23:50:09.164071500 - User logged in: Nandini
+2025-12-06T09:02:47.473439300 - New user registered: Nandini
+2025-12-06T09:02:55.569042500 - User logged in: Nandini
+2025-12-06T09:15:00.970464700 - New user registered: Nandini
+2025-12-06T09:15:14.207562400 - User logged in: Nandini
+2025-12-06T09:28:36.506496900 - ERROR: Error loading Submissions
+Exception: models.Submission; local class incompatible: stream classdesc serialVersionUID = -3630144867974421766, local class serialVersionUID = 270691871294529776
+2025-12-06T09:28:56.567949400 - New user registered: nandini
+2025-12-06T09:29:04.444613500 - User logged in: nandini
+2025-12-06T09:30:51.092721800 - ERROR: Error loading Submissions
+Exception: models.Submission; local class incompatible: stream classdesc serialVersionUID = -3630144867974421766, local class serialVersionUID = 270691871294529776
+2025-12-06T09:31:19.589427200 - New user registered: Nandini
+2025-12-06T09:31:32.986157100 - User logged in: Nandini
+2025-12-06T14:03:22.676850500 - ERROR: Error loading Submissions
+Exception: models.Submission; local class incompatible: stream classdesc serialVersionUID = -3630144867974421766, local class serialVersionUID = 270691871294529776
+2025-12-06T14:03:44.864448600 - New user registered: Nandini
+2025-12-06T14:03:54.746817100 - User logged in: Nandini
+2025-12-06T14:27:30.833917200 - ERROR: Error loading Submissions
+Exception: models.Submission; local class incompatible: stream classdesc serialVersionUID = -3630144867974421766, local class serialVersionUID = 270691871294529776
+2025-12-06T14:32:39.949773 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.957487400 - New problem added: Sum of Two Numbers
+2025-12-06T14:32:39.966852200 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.970927300 - Testcase added to problem ID: 1
+2025-12-06T14:32:39.973855800 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.976930700 - Testcase added to problem ID: 1
+2025-12-06T14:32:39.980138100 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.983275900 - Testcase added to problem ID: 1
+2025-12-06T14:32:39.985659700 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.989054 - New problem added: Reverse a String
+2025-12-06T14:32:39.992321400 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:39.995449900 - Testcase added to problem ID: 2
+2025-12-06T14:32:39.998767200 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.001788400 - Testcase added to problem ID: 2
+2025-12-06T14:32:40.005215800 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.009197900 - Testcase added to problem ID: 2
+2025-12-06T14:32:40.013189500 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.016199100 - New problem added: Check Prime Number
+2025-12-06T14:32:40.020269 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.022483100 - Testcase added to problem ID: 3
+2025-12-06T14:32:40.026067100 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.029175800 - Testcase added to problem ID: 3
+2025-12-06T14:32:40.033285700 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.036346700 - Testcase added to problem ID: 3
+2025-12-06T14:32:40.040008600 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.042701 - New problem added: Factorial of a Number
+2025-12-06T14:32:40.046774200 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.049541400 - Testcase added to problem ID: 4
+2025-12-06T14:32:40.053012 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.057011200 - Testcase added to problem ID: 4
+2025-12-06T14:32:40.060011100 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.063160700 - Testcase added to problem ID: 4
+2025-12-06T14:32:40.066386700 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.069787400 - New problem added: Nth Fibonacci Number
+2025-12-06T14:32:40.073784700 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.076795300 - Testcase added to problem ID: 5
+2025-12-06T14:32:40.080787300 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.083808700 - Testcase added to problem ID: 5
+2025-12-06T14:32:40.088870800 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:32:40.092863100 - Testcase added to problem ID: 5
+2025-12-06T14:32:40.097110500 - ERROR: Error saving Problems
+Exception: C:\Users\Lenovo\coding-platform\problems.ser (The system cannot find the path specified)
+2025-12-06T14:33:09.921433500 - ERROR: Error saving Users
+Exception: C:\Users\Lenovo\coding-platform\users.ser (The system cannot find the path specified)
+2025-12-06T14:33:09.925488600 - New user registered: Nandini
+2025-12-06T14:33:17.274881300 - User logged in: Nandini
+2025-12-06T14:33:32.738396200 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:33:35.564963300 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:33:35.567955200 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:33:41.927217500 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:33:43.190627100 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:33:43.193633400 - ERROR: Error saving Submissions
+Exception: C:\Users\Lenovo\coding-platform\submissions.ser (The system cannot find the path specified)
+2025-12-06T14:39:47.195423200 - New problem added: Sum of Two Numbers
+2025-12-06T14:39:47.203270100 - Testcase added to problem ID: 1
+2025-12-06T14:39:47.208340100 - Testcase added to problem ID: 1
+2025-12-06T14:39:47.213869500 - Testcase added to problem ID: 1
+2025-12-06T14:39:47.227769200 - New problem added: Reverse a String
+2025-12-06T14:39:47.233175900 - Testcase added to problem ID: 2
+2025-12-06T14:39:47.237828200 - Testcase added to problem ID: 2
+2025-12-06T14:39:47.242827800 - Testcase added to problem ID: 2
+2025-12-06T14:39:47.247827600 - New problem added: Check Prime Number
+2025-12-06T14:39:47.254238 - Testcase added to problem ID: 3
+2025-12-06T14:39:47.259235700 - Testcase added to problem ID: 3
+2025-12-06T14:39:47.265236800 - Testcase added to problem ID: 3
+2025-12-06T14:39:47.270236700 - New problem added: Factorial of a Number
+2025-12-06T14:39:47.276339300 - Testcase added to problem ID: 4
+2025-12-06T14:39:47.281920700 - Testcase added to problem ID: 4
+2025-12-06T14:39:47.286882800 - Testcase added to problem ID: 4
+2025-12-06T14:39:47.292052600 - New problem added: Nth Fibonacci Number
+2025-12-06T14:39:47.297122500 - Testcase added to problem ID: 5
+2025-12-06T14:39:47.302020200 - Testcase added to problem ID: 5
+2025-12-06T14:39:47.308089 - Testcase added to problem ID: 5
+2025-12-06T14:40:01.838107500 - New user registered: Nandini
+2025-12-06T14:40:11.272215600 - User logged in: Nandini
+2025-12-06T14:41:21.784721600 - User logged in: Nandini
+2025-12-06T14:42:45.662433 - New user registered: Nandini
+2025-12-06T14:46:58.652128800 - New user registered: user1
+2025-12-06T14:47:26.259184300 - New user registered: user
+2025-12-06T14:47:41.790549900 - User logged in: user
+2025-12-06T14:48:19.073595100 - User logged in: user
+2025-12-06T15:06:57.835959800 - User logged in: user
+2025-12-06T15:22:16.519029600 - ERROR: Error loading Submissions
+Exception: models.Submission; local class incompatible: stream classdesc serialVersionUID = 270691871294529776, local class serialVersionUID = -5710663840210104670
+2025-12-06T15:22:34.094984800 - New user registered: Nandini
+2025-12-06T15:22:42.499709800 - User logged in: Nandini
+2025-12-06T15:25:02.743580200 - User logged in: Nandini
+2025-12-06T17:30:05.181530 - User logged in: Nandini
+2025-12-06T17:33:27.155918400 - New user registered: User2
+2025-12-06T17:33:39.062208800 - User logged in: User2
